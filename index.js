@@ -87,16 +87,16 @@
         },
         {
             name: "Deborah	Giammarco",
-            from: "",
-            favoriteFood: "",
-            hobbies: []
+            from: "Novi",
+            favoriteFood: "Buddys Pizza",
+            hobbies: ["house reno's"]
 
         },
         {
             name: "Elizabeth	Collacott",
             from: "",
             favoriteFood: "",
-            hobbies: []
+            hobbies: [""]
 
         },
         {
